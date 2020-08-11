@@ -1,12 +1,19 @@
 # W8D2 Real World React
 
 ### To Do
-- [ ] React Router
-- [ ] Advanced Routing
-- [ ] Styled Components
-- [ ] `useContext`
-- [ ] `useRef`
-- [ ] Component Libraries
+- [x] React Router
+- [x] Advanced Routing
+- [x] Styled Components
+- [x] `useContext`
+- [x] `useRef`
+- [x] Component Libraries
+
+
+
+
+
+
+
 
 
 
